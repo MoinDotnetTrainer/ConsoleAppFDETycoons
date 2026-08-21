@@ -45,7 +45,6 @@ namespace ConsoleAppFDETycoons
 
         }
 
-
         public void ReadLine()
         {
             Console.WriteLine("Enter Ur name");

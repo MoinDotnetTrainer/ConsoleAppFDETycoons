@@ -10,6 +10,9 @@ namespace ConsoleAppFDETycoons
     {
         public void Test() {
             Console.WriteLine("test fun");
+
+            ClassExample obj = new ClassExample();  // memory allocation
+            obj.Task();
         }
     }
 }
